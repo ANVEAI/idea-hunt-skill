@@ -72,7 +72,7 @@ Most "AI startup idea" prompts ask a model to invent something from nothing. You
 | **Output** | One idea, rationalized | Most ideas **rejected**; one wedge, defended |
 | **Result** | A wall of generic features | A validated, buildable, defensible wedge |
 
-> 💰 If someone pays a freelancer **₹40,000/month** for a task you can automate for **₹4,000**, they've *already told you the price.* That's a **painkiller** — and idea-hunt hunts painkillers, not vitamins.
+> 💰 If someone pays a freelancer **$500/month** for a task you can automate for **$50**, they've *already told you the price.* That's a **painkiller** — and idea-hunt hunts painkillers, not vitamins.
 
 ---
 

@@ -43,10 +43,10 @@ a product.
 **Three signals a workflow is a real target:**
 1. **Money already flows** (a *painkiller*, not a vitamin). People pay a tool, agency, VA,
    freelancer, or plugin to do this today. If nobody pays for today's bad solution, AI won't
-   make them start. A business owner paying a freelancer ₹40k/mo for a task you can automate
-   for ₹4k has *already told you the price*.
+   make them start. A business owner paying a freelancer $500/mo for a task you can automate
+   for $50 has *already told you the price*.
 2. **The pain is repetitive, specific, and now.** It recurs weekly/daily and has a narrow
-   owner ("clinic front desks", "Shopify stores > ₹5L/mo", "immigration paralegals").
+   owner ("clinic front desks", "Shopify stores > $10k/mo", "immigration paralegals").
 3. **AI changes the unit economics for real.** The core task is language, extraction,
    classification, drafting, routing, or judgment that LLMs now do reliably — not "AI-washed"
    decoration over work that's actually offline, physical, or human-mandated.
@@ -100,7 +100,7 @@ running artifact for the whole hunt.
 
 Goal: surface **verbatim complaints** and **proof of spend** about existing workflows/tools.
 You want people saying "I hate that I still do this manually", "X is too expensive/clunky",
-"I pay someone ₹__ to…". Founders who win *mine complaints*; they don't brainstorm.
+"I pay someone $__ to…". Founders who win *mine complaints*; they don't brainstorm.
 
 Run these in parallel and log every hit into the artifact:
 
@@ -135,7 +135,7 @@ solution and selling the completed outcome** — not a new invention:
 > with an AI system that *delivers [the finished outcome]*."
 
 Bad candidate: "AI tool for marketing." (invented, vague, no incumbent, sells a tool)
-Good candidate: "Replace the ₹15–40k/mo freelancer who writes + schedules Amazon listing copy
+Good candidate: "Replace the $200–500/mo freelancer who writes + schedules Amazon listing copy
 for Indian D2C sellers with a self-serve AI that ingests the SKU sheet and *delivers*
 compliant, keyword-optimized listings." (incumbent = freelancer, owner = D2C seller, task =
 drafting, sells the outcome, money already flows)
@@ -215,9 +215,9 @@ extracts real willingness-to-pay.** Pick the strongest one the situation allows:
 - **Concierge / manual-first** — deliver the outcome by hand for the first 3–5 customers
   (you + AI in the loop) and *charge for it*. This proves demand AND writes your automation
   spec from real cases before you build software.
-- **Letter of intent** — for higher-ACV B2B, a signed "we'll pay ₹X/mo when you ship Y."
+- **Letter of intent** — for higher-ACV B2B, a signed "we'll pay $X/mo when you ship Y."
 
-Define the **pass bar up front**, e.g. "3 paying pilots or ₹X collected from 30 qualified
+Define the **pass bar up front**, e.g. "3 paying pilots or $X collected from 30 qualified
 conversations." Miss the bar → the wedge is wrong; return to STAGE 1. Hit it → proceed. This
 one stage is the direct antidote to the 42%-no-market-need failure mode.
 
@@ -248,8 +248,8 @@ Now — and only now — generate the execution plan. Decision-grade, not a 44-i
 5. **Trust system for a zero-reputation stranger** — interactive demo, free trial OR
    money-back guarantee, transparent pricing, founder attention for the first customers,
    turn STAGE 4.5 pilots into the first testimonials/case studies.
-6. **Pricing — anchor to the human/incumbent cost you replace, not to a race-to-₹99:**
-   - Price against what they pay today (the ₹40k freelancer, the agency retainer, the salary).
+6. **Pricing — anchor to the human/incumbent cost you replace, not to a race-to-$9:**
+   - Price against what they pay today (the $500/mo freelancer, the agency retainer, the salary).
      Salesforce's Agentforce prices at ~$2/conversation explicitly *vs* the $30–50 human cost —
      copy that logic.
    - Prefer **outcome- or usage-based, or hybrid** (a predictable base + per-outcome/credit
@@ -269,7 +269,7 @@ Now — and only now — generate the execution plan. Decision-grade, not a 44-i
 9. **Metrics & kill-criteria for the business itself** — define up front the signal that says
    "double down" vs "kill it" (e.g. "0 paying customers after 30 qualified conversations =
    wrong wedge, restart at STAGE 1").
-10. **Scaling roadmap** — first paying customer → ₹5k MRR → ₹50k MRR → ₹5L MRR, naming the
+10. **Scaling roadmap** — first paying customer → $1k MRR → $10k MRR → $100k MRR, naming the
     constraint that changes at each step (and where the data flywheel / switching-cost moat
     starts to compound).
 
